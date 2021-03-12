@@ -10,7 +10,7 @@ const AdminNavbar = () => {
   return (
     <>
       <Navbar bg='light' variant='light'>
-        <Navbar.Brand href='#home'>
+        <Navbar.Brand href='/'>
           <img
             alt=''
             src='/psi-logo.svg'
